@@ -1,0 +1,1 @@
+{"version":3,"sources":["/Users/marat/Documents/reactwarriors-workshop/src/stylesheets/index.scss"],"names":[],"mappings":"AAAA,KACE,kBAAmB,CACpB,UAGC,cAAe,CADjB,gBAII,aAAc","file":"main.a1fa90f2.chunk.css","sourcesContent":["body {\n  background: #f9f9f9;\n}\n\n.nav-link {\n  cursor: pointer;\n\n  &:hover {\n    color: #007bff;\n  }\n}\n"]}
